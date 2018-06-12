@@ -1,3 +1,9 @@
+vinty (0.2.2) unstable; urgency=medium
+
+  * update openssl parameters
+
+ -- Frank Gevaerts <frank.gevaerts@fks.be>  Tue, 12 Jun 2018 14:08:08 +0200
+
 vinty (0.2.1) unstable; urgency=medium
 
   * silly mistake in 0.2
